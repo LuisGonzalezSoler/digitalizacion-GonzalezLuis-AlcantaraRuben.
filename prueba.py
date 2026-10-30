@@ -1,0 +1,1 @@
+semana= ("Lunes", "Martes", "Miercoles")
