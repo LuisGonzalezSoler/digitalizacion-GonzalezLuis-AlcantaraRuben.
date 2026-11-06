@@ -1,1 +1,2 @@
-semana= ("Lunes", "Martes", "Miercoles")
+semana= ("Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo")
+print(semana[0])
