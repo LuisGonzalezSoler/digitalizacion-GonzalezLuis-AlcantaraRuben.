@@ -4,3 +4,4 @@ if enemigo == 'abatido':
     print('enemigo humilladooooo')
 else:
     print('do you want to play lets play')
+print("Krakatua")
